@@ -1,0 +1,71 @@
+
+body {
+	background-repeat: repeat;
+ background-attachment: fixed;
+  background-size: cover;
+	line-height: 15px;
+	overflow-x: hidden;
+	 background-color: red;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9d1a5b-eb1b-42fa-88c6-16f624d71cd7/d5sxsac-0abfa07e-0c6d-4814-a511-d1f342c134e0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiOWQxYTViLWViMWItNDJmYS04OGM2LTE2ZjYyNGQ3MWNkN1wvZDVzeHNhYy0wYWJmYTA3ZS0wYzZkLTQ4MTQtYTUxMS1kMWYzNDJjMTM0ZTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vnsEEuyyw93qJUHALTCT4QH-ana4qRsVafxNwzZmAVk");
+}
+
+
+
+.text-1{
+	text-align: center;
+	    padding-top: 75px;
+	    color: #000000e8;
+	    font-family: 'UnifrakturMaguntia', cursive;
+	    font-size: 1125px;
+	    transform: rotateX(60deg);
+	    letter-spacing: -150px;
+	    text-shadow: -2px -2px 0 #8a0e00, 2px -2px 0 #ddad07, -2px 2px 0 #8a502f, 2px 2px 0 #fbfca6;
+		}
+
+.text-2 {
+	letter-spacing: -125px;
+    padding-top: 350px;
+    text-align: left;
+    color: #ffed9c4a;
+    font-family: 'UnifrakturCook', cursive;
+    transform: skew(15deg, -15deg);
+    font-size: 750px;
+}
+
+.text-3{
+	font-size: 300px;
+    color: #950000;
+    padding-left: 900px;
+    font-family: 'Nosifer', cursive;
+    text-shadow: 5px 5px 5px #ffe05473, -5px 5px 5px #dd3e07ad, 5px -5px 5px #95000087, -5px -5px 5px #95000096;
+    transform: skew(-25deg, -25deg);
+}
+
+.text-4{
+	font-size: 50px;
+padding-left: 775px;
+padding-bottom: 500px;
+color: #fbbc4b;
+font-family: 'Germania One', cursive;
+transform: rotate(40deg);
+}
+
+.text-5{
+	font-size: 100px;
+    font-weight: 700;
+    padding-bottom: 90px;
+    text-align: center;
+    color: #ffed9c;
+    font-family: 'Astloch', cursive;
+    text-shadow: 0px -5px 2px #ffe054, 0px -10px 2px #f39c47, 0px -15px 2px #e6460c, 0px -20px 2px #bf0000;
+}
+
+.text-6{
+	font-size:50px;
+	color: #fd000091;
+	font-family: 'Creepster', cursive;
+padding-top: 500px;
+	padding-right: 100px;
+	text-align: right;
+	padding-bottom: 10px;
+}
